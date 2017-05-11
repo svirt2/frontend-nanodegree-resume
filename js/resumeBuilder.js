@@ -1,3 +1,3 @@
 /*
-$("#main").append([Sami Virta]); 
+$("#main").append([]); 
  */
